@@ -10,6 +10,11 @@ To run:
 dotnet run
 ```
 
+To generate an executable:
+```bash
+dotnet build
+```
+
 ## Contributing
 Under construction...
 
